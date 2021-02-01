@@ -3,13 +3,6 @@ const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 const fs = require('fs');
 
-// added Return the contents of 'data.csv' as a string in the variable "data"
-// added "utf8" encodes the raw buffer data in human-readable format
-// fs.readFile('data.csv', 'utf8', (error, data) =>
-//   error ? console.error(error) : console.log(data)
-// );
-
-
 // TODO: Create an array of questions for user input
 const terminalQuestions = () => {
     inquirer.prompt([
@@ -72,15 +65,8 @@ const terminalQuestions = () => {
     });
 }
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {
-// fs.writeFile(fileName, generateMarkdown(data))
-// }
-
-// TODO: Create a function to initialize app
 function init() {
     terminalQuestions()
 }
 
-// Function call to initialize app
 init();

@@ -32,7 +32,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   const mitLink = '[MIT](https://opensource.org/licenses/MIT)';
-  const apacheLink = '[Apache 2.0]](https://opensource.org/licenses/Apache-2.0)';
+  const apacheLink = '[Apache 2.0](https://opensource.org/licenses/Apache-2.0)';
   const bsd3Link = '[BSD v3](https://opensource.org/licenses/BSD-3-Clause)';
   const gplLink = '[GPL v3](https://www.gnu.org/licenses/gpl-3.0)';
   const noneLink = ' ';
