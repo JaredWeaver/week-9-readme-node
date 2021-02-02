@@ -1,12 +1,13 @@
 
 # README Generator
 
-This repo generates a quality README using terminal commands from the inquirer package.
+Generates a quality readme using the inquirer package.
 
 ## Demo
 
-[![Watch the demo:](https://img.youtube.com/vi/qZfEKz-u27A/maxresdefault.jpg)](https://youtu.be/qZfEKz-u27A)
-[Link to Youtube](https://youtu.be/qZfEKz-u27A)
+<iframe src="https://drive.google.com/file/d/1t0MAEQhdqtSh7197UC_U6xs-GOPbA0eS/preview" width="640" height="480"></iframe>
+
+[Link to Demo](https://youtu.be/8Ps_p_UY-fU)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -29,11 +30,11 @@ npm i inquirer
 
 ## Usage
 
-Please use the inquirer package via npm.
+Please upload the inquirer package via npm.
 
 ## Contributions
 
-Please refer to the contact methods in the questions section before contributing.
+Refer to the questions to seek approval of any contributions.
 
 ## Tests
 
