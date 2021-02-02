@@ -3,6 +3,10 @@
 
 This repo generates a quality README using terminal commands from the inquirer package.
 
+## Demo
+
+[![Watch the demo:](https://img.youtube.com/vi/qZfEKz-u27A/maxresdefault.jpg)](https://youtu.be/qZfEKz-u27A)
+[Link to Youtube](https://youtu.be/qZfEKz-u27A)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
