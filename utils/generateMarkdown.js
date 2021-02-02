@@ -103,7 +103,7 @@ ${data.runTests}
 
 ## License
 
-This application is protected by the ${renderLicenseLink(data.license)}. 
+This application is protected by the ${renderLicenseLink(data.license)} license. 
 
 ## Questions
 

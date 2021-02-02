@@ -1,9 +1,10 @@
 
-# ReadMe Generator
+# README Generator
 
-Generates a quality README.md following a series of prompts in the terminal.
+This repo generates a quality README using terminal commands from the inquirer package.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -18,23 +19,27 @@ Generates a quality README.md following a series of prompts in the terminal.
 
 To install the proper dependencies, please use the following command:
 
-npm i
+```
+npm i inquirer
+```
 
 ## Usage
 
-
+Please use the inquirer package via npm.
 
 ## Contributions
 
-
+Please refer to the contact methods in the questions section before contributing.
 
 ## Tests
 
-npm i
+```
+node index.js
+```
 
 ## License
 
-This application is protected by the [Apache 2.0](https://opensource.org/licenses/Apache-2.0). 
+This application is protected by the [MIT](https://opensource.org/licenses/MIT) license. 
 
 ## Questions
 
