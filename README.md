@@ -5,7 +5,7 @@ Generates a quality readme using the inquirer package.
 
 ## Demo
 
-<iframe src="https://drive.google.com/file/d/1t0MAEQhdqtSh7197UC_U6xs-GOPbA0eS/preview" width="640" height="480"></iframe>
+[![Demo of Generator](http://img.youtube.com/vi/8Ps_p_UY-fU/0.jpg)](http://www.youtube.com/watch?v=8Ps_p_UY-fU "README Generator Demo")
 
 [Link to Demo](https://youtu.be/8Ps_p_UY-fU)
 
