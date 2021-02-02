@@ -83,7 +83,9 @@ ${renderLicenseBadge(data.license)}
 
 To install the proper dependencies, please use the following command:
 
-${data.runTests}
+\`\`\`
+${data.installDependencies}
+\`\`\`
 
 ## Usage
 
@@ -95,7 +97,9 @@ ${data.contributions}
 
 ## Tests
 
+\`\`\`
 ${data.runTests}
+\`\`\`
 
 ## License
 
