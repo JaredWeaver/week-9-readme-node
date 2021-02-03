@@ -1,15 +1,48 @@
 
-# README Generator
+# ReadMe Generator
 
-Generates a quality readme using the inquirer package.
+Generates quality README.md files through the inquirer package on npm. 
 
-## Demo
 
-[![Demo of Generator](http://img.youtube.com/vi/8Ps_p_UY-fU/0.jpg)](http://www.youtube.com/watch?v=8Ps_p_UY-fU "README Generator Demo")
+
+## Demo 
 
 [Link to Demo](https://youtu.be/8Ps_p_UY-fU)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![demo-gif](./ReadMe-Generator-Demo.gif)]
+
+Generates quality readme's.
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
+## User Story
+
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
+
+## Acceptance Criteria
+
+```md
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
+```
 
 ## Table of Contents
 
@@ -30,11 +63,11 @@ npm i inquirer
 
 ## Usage
 
-Please upload the inquirer package via npm.
+Please acquire the inquirer package via npm.
 
 ## Contributions
 
-Refer to the questions to seek approval of any contributions.
+Refer to license.
 
 ## Tests
 
@@ -44,7 +77,7 @@ node index.js
 
 ## License
 
-This application is protected by the [MIT](https://opensource.org/licenses/MIT) license. 
+This application is protected by the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license. 
 
 ## Questions
 
