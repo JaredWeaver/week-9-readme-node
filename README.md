@@ -9,7 +9,7 @@ Generates quality README.md files through the inquirer package on npm.
 
 [Link to Demo](https://youtu.be/8Ps_p_UY-fU)
 
-[![demo-gif](./ReadMe-Generator-Demo.gif)]
+![demo-gif](./ReadMe-Generator-Demo.gif)
 
 Generates quality readme's.
 
